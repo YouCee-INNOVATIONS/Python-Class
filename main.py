@@ -22,3 +22,8 @@ Azizbek = True
 print(josh)
 print(santosh)
 print(Azizbek)
+
+while(i==0,i<10,i++){
+  
+}
+
